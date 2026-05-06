@@ -198,11 +198,12 @@ img {
   width: 100%;
   height: 100vh;
   position: relative;
+  margin: 500px 0px;
 }
 #sec2 .bottom {
   font-size: 2rem;
   position: absolute;
-  top: 0px;
+  top: 100px;
   left: 20px;
   /* border: 1px solid red; */
   overflow: hidden;
@@ -257,7 +258,7 @@ svg {
 #sec5 {
   width: 70%;
   height: 150vh;
-  margin: 0px auto;
+  margin: 300px auto;
 }
 #sec5 .wrap {
   display: flex;
@@ -296,6 +297,7 @@ svg {
 #sec6 {
   position: relative;
   height: 100vh;
+  margin: 400px 0px;
 }
 #sec6 h2 {
   text-align: center;
@@ -761,7 +763,7 @@ svg {
     padding-top: 200px;
     width: 70%;
     height: 100vh;
-    margin: 0px auto;
+    margin: 300px auto;
   }
   #sec4 h2 {
     transform: translateY(50px);
@@ -1204,7 +1206,7 @@ svg {
     padding-top: 200px;
     width: 70%;
     height: 100vh;
-    margin: 0px auto;
+    margin: 300px auto;
   }
   #sec4 h2 {
     transform: translateY(50px);
@@ -1643,6 +1645,7 @@ svg {
   #sec31 {
     display: block;
     color: white;
+    margin: 200px 0px;
   }
   #sec31 .swiper {
     padding-top: 1rem;
