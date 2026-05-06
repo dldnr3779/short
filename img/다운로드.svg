@@ -1,0 +1,371 @@
+<svg version="1.1" class="pc max-820-none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 980" style="enable-background:new 0 0 1920 980;" xml:space="preserve">
+<style type="text/css">
+	.s3 .pc .st0{clip-path:url(#SVGID_2_pc);}
+	.s3 .pc .st1{clip-path:url(#SVGID_4_pc);}
+	.s3 .pc .st2{fill:none;stroke:url(#SVGID_5_pc);stroke-miterlimit:10;}
+	.s3 .pc .st3{fill:none;stroke:url(#SVGID_6_pc);stroke-miterlimit:10;}
+	.s3 .pc .st4{fill:none;stroke:url(#SVGID_7_pc);stroke-miterlimit:10;}
+	.s3 .pc .st5{fill:none;stroke:url(#SVGID_8_pc);stroke-miterlimit:10;}
+	.s3 .pc .st6{fill:none;stroke:url(#SVGID_9_pc);stroke-miterlimit:10;}
+	.s3 .pc .st7{fill:none;stroke:url(#SVGID_10_pc);stroke-miterlimit:10;}
+	.s3 .pc .st8{fill:none;stroke:url(#SVGID_11_pc);stroke-miterlimit:10;}
+	.s3 .pc .st9{fill:none;stroke:url(#SVGID_12_pc);stroke-miterlimit:10;}
+	.s3 .pc .st10{fill:none;stroke:url(#SVGID_13_pc);stroke-miterlimit:10;}
+	.s3 .pc .st11{fill:none;stroke:url(#SVGID_14_pc);stroke-miterlimit:10;}
+	.s3 .pc .st12{fill:none;stroke:url(#SVGID_15_pc);stroke-miterlimit:10;}
+	.s3 .pc .st13{fill:none;stroke:url(#SVGID_16_pc);stroke-miterlimit:10;}
+	.s3 .pc .st14{fill:none;stroke:url(#SVGID_17_pc);stroke-miterlimit:10;}
+	.s3 .pc .st15{fill:none;stroke:url(#SVGID_18_pc);stroke-miterlimit:10;}
+	.s3 .pc .st16{fill:none;stroke:url(#SVGID_19_pc);stroke-miterlimit:10;}
+	.s3 .pc .st17{fill:none;stroke:url(#SVGID_20_pc);stroke-miterlimit:10;}
+	.s3 .pc .st18{fill:none;stroke:url(#SVGID_21_pc);stroke-miterlimit:10;}
+	.s3 .pc .st19{fill:none;stroke:url(#SVGID_22_pc);stroke-miterlimit:10;}
+	.s3 .pc .st20{fill:none;stroke:url(#SVGID_23_pc);stroke-miterlimit:10;}
+	.s3 .pc .st21{fill:none;stroke:url(#SVGID_24_pc);stroke-miterlimit:10;}
+	.s3 .pc .st22{fill:none;stroke:url(#SVGID_25_pc);stroke-miterlimit:10;}
+	.s3 .pc .st23{fill:none;stroke:url(#SVGID_26_pc);stroke-miterlimit:10;}
+	.s3 .pc .st24{fill:none;stroke:url(#SVGID_27_pc);stroke-miterlimit:10;}
+	.s3 .pc .st25{fill:none;stroke:url(#SVGID_28_pc);stroke-miterlimit:10;}
+	.s3 .pc .st26{fill:none;stroke:url(#SVGID_29_pc);stroke-miterlimit:10;}
+	.s3 .pc .st27{fill:none;stroke:url(#SVGID_30_pc);stroke-miterlimit:10;}
+	.s3 .pc .st28{fill:none;stroke:url(#SVGID_31_pc);stroke-miterlimit:10;}
+	.s3 .pc .st29{fill:none;stroke:url(#SVGID_32_pc);stroke-miterlimit:10;}
+	.s3 .pc .st30{fill:none;stroke:url(#SVGID_33_pc);stroke-miterlimit:10;}
+	.s3 .pc .st31{fill:none;stroke:url(#SVGID_34_pc);stroke-miterlimit:10;}
+	.s3 .pc .st32{fill:none;stroke:url(#SVGID_35_pc);stroke-miterlimit:10;}
+	.s3 .pc .st33{fill:none;stroke:url(#SVGID_36_pc);stroke-miterlimit:10;}
+	.s3 .pc .st34{fill:none;stroke:url(#SVGID_37_pc);stroke-miterlimit:10;}
+	.s3 .pc .st35{fill:none;stroke:url(#SVGID_38_pc);stroke-miterlimit:10;}
+	.s3 .pc .st36{fill:none;stroke:url(#SVGID_39_pc);stroke-miterlimit:10;}
+	.s3 .pc .st37{fill:none;stroke:url(#SVGID_40_pc);stroke-miterlimit:10;}
+	.s3 .pc .st38{fill:none;stroke:url(#SVGID_41_pc);stroke-miterlimit:10;}
+	.s3 .pc .st39{fill:none;stroke:url(#SVGID_42_pc);stroke-miterlimit:10;}
+	.s3 .pc .st40{fill:none;stroke:url(#SVGID_43_pc);stroke-miterlimit:10;}
+	.s3 .pc .st41{fill:none;stroke:url(#SVGID_44_pc);stroke-miterlimit:10;}
+	.s3 .pc .st42{fill:none;stroke:url(#SVGID_45_pc);stroke-miterlimit:10;}
+	.s3 .pc .st43{fill:none;stroke:url(#SVGID_46_pc);stroke-miterlimit:10;}
+	.s3 .pc .st44{fill:none;stroke:url(#SVGID_47_pc);stroke-miterlimit:10;}
+	.s3 .pc .st45{fill:none;stroke:url(#SVGID_48_pc);stroke-miterlimit:10;}
+	.s3 .pc .st46{fill:none;stroke:url(#SVGID_49_pc);stroke-miterlimit:10;}
+	.s3 .pc .st47{fill:none;stroke:url(#SVGID_50_pc);stroke-miterlimit:10;}
+	.s3 .pc .st48{fill:none;stroke:url(#SVGID_51_pc);stroke-miterlimit:10;}
+	.s3 .pc .st49{fill:none;stroke:url(#SVGID_52_pc);stroke-miterlimit:10;}
+	.s3 .pc .st50{fill:none;stroke:url(#SVGID_53_pc);stroke-miterlimit:10;}
+	.s3 .pc .st51{fill:none;stroke:url(#SVGID_54_pc);stroke-miterlimit:10;}
+	.s3 .pc .st52{fill:none;stroke:url(#SVGID_55_pc);stroke-miterlimit:10;}
+	.s3 .pc .st53{clip-path:url(#SVGID_2_pc);fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.s3 .pc .st54{clip-path:url(#SVGID_2_pc);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.s3 .pc .st55{opacity:0.2;clip-path:url(#SVGID_2_pc);fill-rule:evenodd;clip-rule:evenodd;fill:#5EB530;}
+	.s3 .pc .st56{opacity:0.4;clip-path:url(#SVGID_2_pc);fill-rule:evenodd;clip-rule:evenodd;fill:#5EB530;}
+	.s3 .pc .st57{clip-path:url(#SVGID_2_pc);fill-rule:evenodd;clip-rule:evenodd;fill:#5EB530;}
+	.s3 .pc .st58{opacity:0.2;fill-rule:evenodd;clip-rule:evenodd;fill:#5EB530;}
+	.s3 .pc .st59{opacity:0.4;fill-rule:evenodd;clip-rule:evenodd;fill:#5EB530;}
+	.s3 .pc .st60{fill-rule:evenodd;clip-rule:evenodd;fill:#5EB530;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_pc" width="1920" height="980"></rect>
+	</defs>
+	<clipPath id="SVGID_2_pc">
+		<use style="overflow:visible;" href="#SVGID_1_pc"></use>
+	</clipPath>
+	<g class="st0">
+		<defs>
+			<path id="SVGID_3_pc" d="M-49.8,923.2c0,0,1264.7,14.6,1667.1-933.6h333.9v1034.9h-2001V923.2z"></path>
+		</defs>
+		<clipPath id="SVGID_4_pc">
+			<use style="overflow:visible;" href="#SVGID_3_pc"></use>
+		</clipPath>
+		<g class="st1">
+			<g>
+				<linearGradient id="SVGID_5_pc" gradientUnits="userSpaceOnUse" x1="22.6264" y1="977.8901" x2="22.6264" y2="873.4506">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st2" x1="22.6" y1="873.5" x2="22.6" y2="977.9" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_6_pc" gradientUnits="userSpaceOnUse" x1="58.7597" y1="978.1576" x2="58.7597" y2="850.3892">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st3" x1="58.8" y1="850.4" x2="58.8" y2="978.2" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_7_pc" gradientUnits="userSpaceOnUse" x1="94.8931" y1="978.4251" x2="94.8931" y2="827.3279">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st4" x1="94.9" y1="827.3" x2="94.9" y2="978.4" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_8_pc" gradientUnits="userSpaceOnUse" x1="131.0264" y1="978.6926" x2="131.0264" y2="804.2666">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st5" x1="131" y1="804.3" x2="131" y2="978.7" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_9_pc" gradientUnits="userSpaceOnUse" x1="167.1597" y1="978.9601" x2="167.1597" y2="781.2053">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st6" x1="167.2" y1="781.2" x2="167.2" y2="979" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_10_pc" gradientUnits="userSpaceOnUse" x1="203.2931" y1="979.2276" x2="203.2931" y2="758.144">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st7" x1="203.3" y1="758.1" x2="203.3" y2="979.2" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_11_pc" gradientUnits="userSpaceOnUse" x1="239.4264" y1="979.4951" x2="239.4264" y2="735.0827">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st8" x1="239.4" y1="735.1" x2="239.4" y2="979.5" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_12_pc" gradientUnits="userSpaceOnUse" x1="275.5597" y1="979.7626" x2="275.5597" y2="712.0214">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st9" x1="275.6" y1="712" x2="275.6" y2="979.8" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_13_pc" gradientUnits="userSpaceOnUse" x1="311.6931" y1="980.0301" x2="311.6931" y2="688.9601">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st10" x1="311.7" y1="689" x2="311.7" y2="980" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_14_pc" gradientUnits="userSpaceOnUse" x1="347.8264" y1="980.2975" x2="347.8264" y2="665.8988">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st11" x1="347.8" y1="665.9" x2="347.8" y2="980.3" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_15_pc" gradientUnits="userSpaceOnUse" x1="383.9597" y1="980.5651" x2="383.9597" y2="642.8375">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st12" x1="384" y1="642.8" x2="384" y2="980.6" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_16_pc" gradientUnits="userSpaceOnUse" x1="420.093" y1="980.8326" x2="420.093" y2="619.7762">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st13" x1="420.1" y1="619.8" x2="420.1" y2="980.8" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_17_pc" gradientUnits="userSpaceOnUse" x1="456.2264" y1="981.1" x2="456.2264" y2="596.7148">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st14" x1="456.2" y1="596.7" x2="456.2" y2="981.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_18_pc" gradientUnits="userSpaceOnUse" x1="492.3597" y1="981.3676" x2="492.3597" y2="573.6536">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st15" x1="492.4" y1="573.7" x2="492.4" y2="981.4" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_19_pc" gradientUnits="userSpaceOnUse" x1="528.493" y1="981.6351" x2="528.493" y2="550.5922">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st16" x1="528.5" y1="550.6" x2="528.5" y2="981.6" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_20_pc" gradientUnits="userSpaceOnUse" x1="564.6264" y1="981.9025" x2="564.6264" y2="527.5309">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st17" x1="564.6" y1="527.5" x2="564.6" y2="981.9" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_21_pc" gradientUnits="userSpaceOnUse" x1="600.7597" y1="982.17" x2="600.7597" y2="504.4696">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st18" x1="600.8" y1="504.5" x2="600.8" y2="982.2" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_22_pc" gradientUnits="userSpaceOnUse" x1="636.8931" y1="982.4376" x2="636.8931" y2="481.4083">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st19" x1="636.9" y1="481.4" x2="636.9" y2="982.4" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_23_pc" gradientUnits="userSpaceOnUse" x1="673.0264" y1="982.705" x2="673.0264" y2="458.347">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st20" x1="673" y1="458.3" x2="673" y2="982.7" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_24_pc" gradientUnits="userSpaceOnUse" x1="709.1597" y1="982.9725" x2="709.1597" y2="435.2857">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st21" x1="709.2" y1="435.3" x2="709.2" y2="983" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_25_pc" gradientUnits="userSpaceOnUse" x1="745.293" y1="983.2401" x2="745.293" y2="412.2244">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st22" x1="745.3" y1="412.2" x2="745.3" y2="983.2" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_26_pc" gradientUnits="userSpaceOnUse" x1="781.4264" y1="983.5075" x2="781.4264" y2="389.1631">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st23" x1="781.4" y1="389.2" x2="781.4" y2="983.5" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_27_pc" gradientUnits="userSpaceOnUse" x1="817.5597" y1="983.775" x2="817.5597" y2="366.1018">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st24" x1="817.6" y1="366.1" x2="817.6" y2="983.8" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_28_pc" gradientUnits="userSpaceOnUse" x1="853.6931" y1="984.0425" x2="853.6931" y2="343.0405">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st25" x1="853.7" y1="343" x2="853.7" y2="984" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_29_pc" gradientUnits="userSpaceOnUse" x1="889.8264" y1="984.31" x2="889.8264" y2="319.9792">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st26" x1="889.8" y1="320" x2="889.8" y2="984.3" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_30_pc" gradientUnits="userSpaceOnUse" x1="925.9597" y1="984.5775" x2="925.9597" y2="296.9179">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st27" x1="926" y1="296.9" x2="926" y2="984.6" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_31_pc" gradientUnits="userSpaceOnUse" x1="962.093" y1="984.845" x2="962.093" y2="273.8566">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st28" x1="962.1" y1="273.9" x2="962.1" y2="984.8" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_32_pc" gradientUnits="userSpaceOnUse" x1="998.2264" y1="985.1125" x2="998.2264" y2="250.7953">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st29" x1="998.2" y1="250.8" x2="998.2" y2="985.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_33_pc" gradientUnits="userSpaceOnUse" x1="1034.3597" y1="985.38" x2="1034.3597" y2="227.7339">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st30" x1="1034.4" y1="227.7" x2="1034.4" y2="985.4" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_34_pc" gradientUnits="userSpaceOnUse" x1="1070.493" y1="985.6475" x2="1070.493" y2="204.6726">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st31" x1="1070.5" y1="204.7" x2="1070.5" y2="985.6" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_35_pc" gradientUnits="userSpaceOnUse" x1="1106.6263" y1="985.915" x2="1106.6263" y2="181.6113">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st32" x1="1106.6" y1="181.6" x2="1106.6" y2="985.9" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_36_pc" gradientUnits="userSpaceOnUse" x1="1142.7596" y1="986.1825" x2="1142.7596" y2="158.55">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st33" x1="1142.8" y1="158.6" x2="1142.8" y2="986.2" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_37_pc" gradientUnits="userSpaceOnUse" x1="1178.8931" y1="986.45" x2="1178.8931" y2="135.4887">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st34" x1="1178.9" y1="135.5" x2="1178.9" y2="986.4" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_38_pc" gradientUnits="userSpaceOnUse" x1="1215.0264" y1="986.7175" x2="1215.0264" y2="112.4274">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st35" x1="1215" y1="112.4" x2="1215" y2="986.7" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_39_pc" gradientUnits="userSpaceOnUse" x1="1251.1597" y1="986.985" x2="1251.1597" y2="89.3661">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st36" x1="1251.2" y1="89.4" x2="1251.2" y2="987" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_40_pc" gradientUnits="userSpaceOnUse" x1="1287.2931" y1="987.2524" x2="1287.2931" y2="66.3048">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st37" x1="1287.3" y1="66.3" x2="1287.3" y2="987.3" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_41_pc" gradientUnits="userSpaceOnUse" x1="1323.4264" y1="987.52" x2="1323.4264" y2="43.2435">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st38" x1="1323.4" y1="43.2" x2="1323.4" y2="987.5" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_42_pc" gradientUnits="userSpaceOnUse" x1="1359.5597" y1="987.7875" x2="1359.5597" y2="20.1822">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st39" x1="1359.6" y1="20.2" x2="1359.6" y2="987.8" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_43_pc" gradientUnits="userSpaceOnUse" x1="1395.693" y1="988.0549" x2="1395.693" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st40" x1="1395.7" y1="-2.9" x2="1395.7" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+			</g>
+			<g>
+				<linearGradient id="SVGID_44_pc" gradientUnits="userSpaceOnUse" x1="1438.6957" y1="988.0549" x2="1438.6957" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st41" x1="1438.7" y1="-2.9" x2="1438.7" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_45_pc" gradientUnits="userSpaceOnUse" x1="1482.3348" y1="988.0549" x2="1482.3348" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#0C0E0E"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st42" x1="1482.3" y1="-2.9" x2="1482.3" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_46_pc" gradientUnits="userSpaceOnUse" x1="1525.974" y1="988.0549" x2="1525.974" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#0B0D0D"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st43" x1="1526" y1="-2.9" x2="1526" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_47_pc" gradientUnits="userSpaceOnUse" x1="1569.613" y1="988.0549" x2="1569.613" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#0A0B0B"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st44" x1="1569.6" y1="-2.9" x2="1569.6" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_48_pc" gradientUnits="userSpaceOnUse" x1="1613.2522" y1="988.0549" x2="1613.2522" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#090A0A"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st45" x1="1613.3" y1="-2.9" x2="1613.3" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_49_pc" gradientUnits="userSpaceOnUse" x1="1656.8914" y1="988.0549" x2="1656.8914" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#080808"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st46" x1="1656.9" y1="-2.9" x2="1656.9" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_50_pc" gradientUnits="userSpaceOnUse" x1="1700.5304" y1="988.0549" x2="1700.5304" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#070707"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st47" x1="1700.5" y1="-2.9" x2="1700.5" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_51_pc" gradientUnits="userSpaceOnUse" x1="1744.1696" y1="988.0549" x2="1744.1696" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#070505"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st48" x1="1744.2" y1="-2.9" x2="1744.2" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_52_pc" gradientUnits="userSpaceOnUse" x1="1787.8086" y1="988.0549" x2="1787.8086" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#060404"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st49" x1="1787.8" y1="-2.9" x2="1787.8" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_53_pc" gradientUnits="userSpaceOnUse" x1="1831.4478" y1="988.0549" x2="1831.4478" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#050202"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st50" x1="1831.4" y1="-2.9" x2="1831.4" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_54_pc" gradientUnits="userSpaceOnUse" x1="1875.0869" y1="988.0549" x2="1875.0869" y2="-2.8791">
+					<stop offset="0" style="stop-color:#040000"></stop>
+					<stop offset="0.4" style="stop-color:#050101"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st51" x1="1875.1" y1="-2.9" x2="1875.1" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+				<linearGradient id="SVGID_55_pc" gradientUnits="userSpaceOnUse" x1="1918.726" y1="988.0549" x2="1918.726" y2="-2.8791">
+					<stop offset="0.4" style="stop-color:#040000"></stop>
+					<stop offset="1" style="stop-color:#212222"></stop>
+				</linearGradient>
+				<line class="st52" x1="1918.7" y1="-2.9" x2="1918.7" y2="988.1" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></line>
+			</g>
+		</g>
+	</g>
+	<path class="st53 line" d="M-49.8,923.2c0,0,1263.6,12.7,1667.1-933.6h333.9v1034.9h-2001V923.2z" style="stroke-dashoffset: 0.001; stroke-dasharray: 0px, 999999px;"></path>
+
+	<g class="dot">
+		<circle class="st54" cx="348.6" cy="881.6" r="6" style="opacity: 0;"></circle>
+		<g class="small greenBall" style="opacity: 0;">
+			<circle class="st58" cx="528.3" cy="840.4" r="18.6"></circle>
+			<circle class="st59" cx="528.3" cy="840.4" r="12.4"></circle>
+			<circle class="st60" cx="528.3" cy="840.4" r="6.5"></circle>
+		</g>
+		<circle class="st54" cx="709.3" cy="785" r="6" style="opacity: 0;"></circle>
+		<circle class="st54" cx="889.1" cy="713.4" r="6" style="opacity: 0;"></circle>
+		<circle class="st54" cx="1068.2" cy="613.9" r="6" style="opacity: 0;"></circle>
+		<circle class="st54" cx="1251.3" cy="481.9" r="6" style="opacity: 0;"></circle>
+		<g class="big greenBall" style="opacity: 0;">
+			<circle class="st55" cx="1439.6" cy="287.8" r="27.9"></circle>
+			<circle class="st56" cx="1439.6" cy="287.8" r="18.6"></circle>
+			<circle class="st57" cx="1439.6" cy="287.8" r="9.7"></circle>
+		</g>
+	</g>
+</g>
+</svg>
