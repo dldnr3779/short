@@ -78,7 +78,7 @@ header .contact::after {
   z-index: -1;
 }
 header .contact:hover {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 header .contact:hover::after {
   opacity: 1;
@@ -947,11 +947,13 @@ svg {
   footer .wrap div .img1 {
     width: 150px;
     /* position: absolute; */
-    transform: translateX(-350px);
+    transform: translateX(-360px);
   }
   footer .wrap div .img2 {
     width: 150px;
-    transform: translate(25px, 150px);
+    position: absolute;
+    bottom: -100px;
+    /* transform: translate(25px, 150px); */
   }
   footer .wrap div .img1 img {
     width: 100%;
@@ -1391,8 +1393,10 @@ svg {
     transform: translateX(-350px);
   }
   footer .wrap div .img2 {
+    position: absolute;
+    bottom: -100px;
     width: 150px;
-    transform: translate(25px, 150px);
+    /* transform: translate(25px, 150px); */
   }
   footer .wrap div .img1 img {
     width: 100%;
@@ -1484,7 +1488,7 @@ svg {
     z-index: -1;
   }
   header .contact:hover {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   header .contact:hover::after {
     opacity: 1;
